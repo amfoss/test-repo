@@ -1,0 +1,3 @@
+Favorite fruit: Watermelon
+Favorite song = Meri Maa
+Favorite dessert = Pastries
