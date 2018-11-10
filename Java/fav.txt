@@ -1,0 +1,3 @@
+Favorite fruit : apple
+Favorite song : Summer of '69 - Bryan Adams
+Favorite dessert : no idea
