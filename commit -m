@@ -1,0 +1,30 @@
+# This is a combination of 3 commits.
+# This is the 1st commit message:
+
+adding the Students class
+
+# This is the commit message #2:
+
+adding driver class
+
+# This is the commit message #3:
+
+adding consumers
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Date:      Thu Sep 6 18:51:58 2018 +0530
+#
+# interactive rebase in progress; onto 1c0ed3c
+# Last commands done (3 commands done):
+#    squash 901e1e4 adding driver class
+#    squash 93c79e5 adding consumers
+# No commands remaining.
+# You are currently rebasing branch 'development' on '1c0ed3c'.
+#
+# Changes to be committed:
+#	new file:   Consumer.java
+#	new file:   Student.java
+#	new file:   driver.java
+#
