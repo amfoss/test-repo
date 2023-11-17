@@ -1,3 +1,4 @@
 # Java Assignments
 
-This folder will contain ```Java``` assignments. It will be updated soon with a lot more problems. :sparkles:
+This folder will contain ```Java``` assignmen
+Java java evrywhere11
