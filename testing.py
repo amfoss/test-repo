@@ -38,6 +38,11 @@ if img_file_buffer is not None:
             "Space": "path_to_space_image.jpg",
         }
 
+        st.title("Dream Background")
+        threshold = st.slider("Background Threshold", 0, 255, value=50, step=5)
+
+        # Process the captured image with background removal and replacement
+       
         # Get the selected background image file path
         background_file = background_images[selected_background]
 
