@@ -5,3 +5,6 @@ for i in range(3):
 
 
 print("dodajemo nesto novo")
+
+def rale():
+    print("rale")   
